@@ -1,7 +1,7 @@
 # Snake Neural Network
 _(Sorry, shortening names like that can bug me)_
 
-Using Java as my language of choice, I plan on finally getting into the realm of machine learning. My ultimate goal is to mix deep learning with the lottery.
+Using Java as my language of choice, I plan on finally getting into the realm of machine learning. My ultimate goal is to mix deep learning with the lottery, but for this project I'll stick with snake: Cool gif that lead to the code-along below: https://imgur.com/gallery/pXJuy.
 
 This was created thanks to [hamstap85](https://github.com/hamstap85) and our mutual interest in the above field. 
 The same conditions apply, to quote " 
